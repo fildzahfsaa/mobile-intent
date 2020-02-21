@@ -1,6 +1,7 @@
 package id.ac.polinema.intent;
 
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,4 +13,7 @@ public class ParcelableActivity extends AppCompatActivity {
         setContentView(R.layout.activity_parcelable);
     }
 
+    public void handleSubmitParcel(View view) {
+
+    }
 }

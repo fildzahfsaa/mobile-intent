@@ -10,14 +10,13 @@
     tools:context=".ProfileParcelableActivity">
 
     <TextView
-        android:text="@string/profile"
-        android:textAlignment="center"
-        android:textSize="24sp"
-        android:textStyle="bold"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        />
+        android:text="@string/profile"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
     <LinearLayout
         android:layout_width="match_parent"
